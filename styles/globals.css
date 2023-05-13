@@ -366,6 +366,7 @@ a {
 
 .navButtons{
   padding: 100px 280px;
+  padding-bottom: 0;
 }
 .social-buttons{
   background-color: transparent;
@@ -375,4 +376,32 @@ a {
 }
 .social-buttons:hover{
   background: radial-gradient( rgba(0, 255, 0, 0.529), #040404);
+}
+.css-1my9uul-MuiButtonBase-root-MuiMenuItem-root{
+  background-color: #273e24;
+  color: #00FF01 !important;
+}
+#select-multiple-language, #form-layouts-separator-multiple-select, .css-6hp17o-MuiList-root-MuiMenu-list{
+  background-color: #000000;
+}
+#form-layouts-separator-multiple-select-label{
+  color:#00FF01;
+}
+.reward-box{
+  background-color:transparent;
+  border: 4px outset #617266;
+  border-radius: 25px;
+  width:40%;
+  padding: 5px 5px;
+  margin-left: 380px !important;
+}
+.reward-btn{
+  border-radius: 25px;
+    background-color: #269a26;
+    font-size: 18px;
+    font-weight: 500;
+    float: right;
+}
+.enterprise{
+  margin-top: -180px;
 }

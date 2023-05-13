@@ -71,6 +71,10 @@
     font-weight: 500;
 }
 
+.form-wallet-button:hover{
+    background-color: #018337 !important;
+}
+
 @media screen and (max-width:375px){
     .form-label{
         font-size: 14px !important;
