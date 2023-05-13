@@ -363,3 +363,16 @@ a {
   color: #FDFDFD;
 
 }
+
+.navButtons{
+  padding: 100px 280px;
+}
+.social-buttons{
+  background-color: transparent;
+  border-radius: 20px;
+  border: 2px solid #ffff;
+  color: #ffff;
+}
+.social-buttons:hover{
+  background: radial-gradient( rgba(0, 255, 0, 0.529), #040404);
+}
